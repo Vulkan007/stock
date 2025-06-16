@@ -83,17 +83,4 @@ The Power BI dashboard visualizes:
 
 Feel free to submit issues or pull requests to enhance the queries, support more stocks, or extend visualization templates!
 
----
 
-## ⭐ **License**
-
-MIT License (or your preferred license)
-
----
-
-If you'd like, I can:
-✅ Generate the folder/file scaffolding
-✅ Add badge links (e.g. for Power BI, MariaDB)
-✅ Help you write contribution guidelines
-
-Would you like this refined further? 🚀
