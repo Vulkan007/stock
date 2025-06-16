@@ -38,9 +38,9 @@ It includes SQL code to create unified views, perform data aggregation, identify
 /sql
   └── stock_analysis.sql         # Combined SQL script for all analysis + exports
 /powerbi
-  └── dashboard.pbix             # Power BI dashboard file (optional)
+  └── dashboard.pdf           # Power BI dashboard file 
 /data
-  └── [Your exported CSV files here]
+  └── used dataset - csv data
 README.md
 ```
 
