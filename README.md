@@ -58,12 +58,16 @@ README.md
 
 ---
 
-## 💡 **Example Insights**
+## 💡 Insights**
 
 * Trends in closing prices across years
 * Volume patterns for high-frequency stocks
 * Identification of major daily price drops
 * Comparison of daily performance between key companies
+
+
+![image](https://github.com/user-attachments/assets/272776af-b404-4330-89c5-947cb3733275)
+
 
 ---
 
